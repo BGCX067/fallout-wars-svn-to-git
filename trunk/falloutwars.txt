@@ -1,0 +1,7 @@
+"falloutwars"
+{
+	"base"			"sandbox"
+	"title"			"Fallout:Wars"
+	"maps"			"^gm_"
+	"menusystem" 	"1"
+}
